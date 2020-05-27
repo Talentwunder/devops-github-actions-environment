@@ -11,5 +11,5 @@ The resulting TW environment
 ## Example usage
 
 ```yaml
-uses: Talentwunder/devops-github-actions-environment/@v1
+uses: Talentwunder/devops-github-actions-environment@v1
 ```
