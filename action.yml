@@ -1,0 +1,8 @@
+name: 'Set environment'
+description: 'Set environment depending on GitHub branch'
+outputs:
+  environment:
+    description: 'The resulting environment'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
